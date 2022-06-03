@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+    background-image: url(./star.jpg);
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(141, 86, 86);
+}
+section{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #000000;
+    margin-top: 150px;
+    box-shadow: 2px 4px;
+}
